@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I’m a new developer learning Javascript. 
+
+I’m an aspiring developer, learning every day!
+
+
 Pronouns: He/Him
  
