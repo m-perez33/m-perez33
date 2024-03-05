@@ -5,6 +5,7 @@
 
 Here are some ideas to get you started:
 
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,8 +15,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm a creative pro always up for a challenge. With a backrground in imagery, project management, and data crunching, I've now ventured into software development, infusing coding with my creative flair.
 
-I’m an aspiring developer, learning every day!
+Each coding challenge is an opportunity for me to level up and push boundaries.
+ 
+Check out my projects-I'm learning every day!
 
 
 Pronouns: He/Him
